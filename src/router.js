@@ -22,6 +22,12 @@ export default new Router({
       name: "products",
       component: () =>
         import(/* webpackChunkName: "about" */ "./views/Products.vue")
+    },
+    {
+      path: "/cart",
+      name: "cart",
+      component: () =>
+        import(/* webpackChunkName: "about" */ "./views/Cart.vue")
     }
   ]
 });
