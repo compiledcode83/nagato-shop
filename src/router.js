@@ -18,10 +18,10 @@ export default new Router({
         import(/* webpackChunkName: "about" */ "./views/About.vue")
     },
     {
-      path: "/about",
-      name: "about",
+      path: "/products",
+      name: "products",
       component: () =>
-        import(/* webpackChunkName: "about" */ "./views/About.vue")
+        import(/* webpackChunkName: "about" */ "./views/Products.vue")
     }
   ]
 });
