@@ -27,6 +27,10 @@
   color: #2c3e50;
 }
 
+a.router-link {
+  text-decoration: none;
+}
+
 #nav a.router-link-exact-active {
   color: #d878f0;
 }
