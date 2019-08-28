@@ -24,10 +24,10 @@ export default new Router({
         import(/* webpackChunkName: "about" */ "./views/Products.vue")
     },
     {
-      path: "/products",
-      name: "products",
+      path: "/cart",
+      name: "cart",
       component: () =>
-        import(/* webpackChunkName: "about" */ "./views/Products.vue")
+        import(/* webpackChunkName: "about" */ "./views/Cart.vue")
     }
   ]
 });
