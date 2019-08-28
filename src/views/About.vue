@@ -4,5 +4,15 @@
   </div>
 </template>
 
+<script>
+
+export default {
+  name: "products",
+  components: {
+    
+  }
+};
+</script>
+
 <style>
 </style>
