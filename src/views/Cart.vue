@@ -1,6 +1,7 @@
 // shopping card here
 <template>
   <div class="cart">
+    <Title msg="Welcome to the Store" />
   </div>
 </template>
 
