@@ -1,6 +1,6 @@
 // header here
 // add search option - bootstrap
 <template>
-  <div class="home">
+  <div class="header">
   </div>
 </template>
