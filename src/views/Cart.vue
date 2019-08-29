@@ -10,7 +10,7 @@ import Title from "@/components/Title.vue";
 export default {
   name: "cart",
   components: {
-    
+    Title
   }
 };
 </script>
