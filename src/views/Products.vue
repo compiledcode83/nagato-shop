@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import Title from "@/components/Title.vue";
 
 export default {
   name: "products",
