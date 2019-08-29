@@ -1,6 +1,7 @@
 // all products here
 <template>
   <div class="products">
+    <Title msg="All Products" />
   </div>
 </template>
 
