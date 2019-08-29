@@ -1,7 +1,7 @@
 // shopping card here
 <template>
   <div class="cart">
-    <Title msg="Welcome to the Store" />
+    <Title msg="Your Shopping Cart" />
   </div>
 </template>
 
